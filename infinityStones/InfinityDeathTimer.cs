@@ -15,7 +15,7 @@ namespace infinityStones
         private Player player;
         private bool killedPlayer = false;
 
-        private int SECONDS_TIL_DEATH = 30;
+        private int SECONDS_TIL_DEATH = 40;
         private int SECONDS_ADDED_PER_CARD = 4;
 
         private DateTime startTime;
